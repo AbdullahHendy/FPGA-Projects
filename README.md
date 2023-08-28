@@ -14,7 +14,7 @@ A variety of projects using the PL side (FPGA) of the Zybo Z7-10
 * [Number Guessing Game (Advanced)](https://github.com/AbdullahHendy/FPGA-Projects/tree/main/Number%20guessing%20Game%20Advanced)
 * [Simon Game](https://github.com/AbdullahHendy/FPGA-Projects/tree/main/Simon%20Game)
 * [UART with Seven Segment Display](https://github.com/AbdullahHendy/FPGA-Projects/tree/main/UART%20Controller%20with%20Seven%20Segment%20Display)
-* [Basketball Shot Clock with UART Controls]()
+* [Basketball Shot Clock with UART Controls](https://github.com/AbdullahHendy/FPGA-Projects/tree/main/Basketball%20Shot%20Clock%20with%20UART%20Controls)
 * [VGA Display Patterns](https://github.com/AbdullahHendy/FPGA-Projects/tree/main/VGA%20Patterns)
 * [Rainbow Effect (PWM)](https://github.com/AbdullahHendy/FPGA-Projects/tree/main/Rainbow%20PWM)
 * [Digital Lock](https://github.com/AbdullahHendy/FPGA-Projects/tree/main/Digital%20Lock)
