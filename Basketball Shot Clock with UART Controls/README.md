@@ -56,9 +56,10 @@ NBA-style (24 Seconds) shot clock with a speaker. The shot clock can be reset an
 
 ## Documentation
 
-![Setup]()
+![Setup](https://github.com/AbdullahHendy/FPGA-Projects/blob/main/Basketball%20Shot%20Clock%20with%20UART%20Controls/media/setup.jpg?raw=true)
 
-[Demo Video](https://www.youtube.com/watch?v=Xvc3fC9iti8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xvc3fC9iti8?si=hOCni7W1798C6OOz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
