@@ -14,7 +14,7 @@ UART communication using using seven-segment display to show the lower 4-bits of
 
 ### Software
 
-* Use a terminal/terminal-emulator software like [Tera Term](https://ttssh2.osdn.jp/index.html.en) or [PuTTY](https://www.putty.org/) or any other for serial communication between the host PC and the Zybo.
+* Use a terminal/terminal-emulator software like [Tera Term](https://ttssh2.osdn.jp/index.html.en) or [PuTTY](https://www.putty.org/) or any other terminals/terminal-emulators for serial communication between the host PC and the Zybo.
 * Connect to the correct COM Port, which will show up in the *Device Manager* once the USB-UART PMOD is plugged in.
 * Use the following settings for the serial communication:
 	1. Baud Rate: 115200
