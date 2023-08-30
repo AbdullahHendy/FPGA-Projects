@@ -63,7 +63,7 @@ NBA-style (24 Seconds) shot clock with a speaker. The shot clock can be reset an
 
 ### Video Demo
 
-<video width="630" height="300" src="https://www.youtube.com/watch?v=Xvc3fC9iti8"></video>
+[Demo](https://www.youtube.com/watch?v=Xvc3fC9iti8)
 
 
 ## Version History
