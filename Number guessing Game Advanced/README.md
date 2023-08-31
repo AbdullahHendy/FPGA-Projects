@@ -29,7 +29,7 @@ Guess a number guided by the RGB LED feedback until the secret number is found
 3. Use the keypad to enter a number (0-99), the entered number will show up on the seven-segment
 4. Enter → BTN2
 5. If the LED is red, pick a lower number. If the LED is blue, pick a higher number until the secret number is found
-6. To show the secret number on the Zybo four LEDs → BTN3
+6. To show the secret number on the seven-segment display → BTN3
 
 
 ## Documentation
